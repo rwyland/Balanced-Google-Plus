@@ -1,6 +1,6 @@
 {
   "name": "Balanced Google+",
-  "version": "1.2",
+  "version": "1.3",
   "manifest_version": 2,
   "description": "A Chrome Extension for re-balancing the whitespace in the new Google+",
   "icons": { "48": "icon48.png", "128": "icon128.png" },
